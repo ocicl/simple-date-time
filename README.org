@@ -1,0 +1,9 @@
+* simple-date-time
+
+Date and time library for common lisp.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/quek/simple-date-time.git |
+| commit  | d6992af                                          |
+| systems | simple-date-time                                 |
+|---------+--------------------------------------------------|
